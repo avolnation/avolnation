@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi everyone, my name is Ihar, aka avolnation 👋
 #
+<div align="center">
+  <img src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" width="600" height="300"/>
+</div>
+
 <!--
 **avolnation/avolnation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
