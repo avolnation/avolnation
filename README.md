@@ -5,8 +5,10 @@
 </div>
 
 ---
+
 I am Junior Front End Developer
 Currently learning JS 
+
 ---
 ### About me
 ---
