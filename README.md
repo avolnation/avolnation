@@ -6,7 +6,7 @@ I am Junior Front End Developer
 <br>
 Currently practicing and improving in JS, HTML/CSS
 
-### About me
+### 📝 About me
 
 I'm 19 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python, PHP.
 
@@ -16,9 +16,9 @@ Full of drive to learn new things and develop myself as a Front end developer.
 
 ---
 
-### Skills and Proficiency
+### ⚙️ Skills and Proficiency
 
-#### Programming languages
+#### 📚 Programming languages
 
 * JavaScript    (Intermediate)
 * HTML5 & CSS3  (Intermediate)
@@ -26,33 +26,33 @@ Full of drive to learn new things and develop myself as a Front end developer.
 * Python        (Basic - Pre-Intermediate)
 * PHP           (Basic)
 
-#### Frameworks and Library
+#### 📚 Frameworks and Library
 
 * Vue.js        (Basic)
 * React JS      (Basic)
 
-#### DBMS
+#### 📚 DBMS
 
 * MySQL Server  (Pre-intermediate)
 
-#### IDE
+#### 📚 IDE
 
 * VS Code           (Intermediate)
 * PyCharm           (Basic)
 
-#### Tools and Abilities
+#### 📚 Tools and Abilities
 
 * Git CLI, GitHub, BitBucket
 * Command Prompt
 * Touch typing
 
-#### OS
+#### 📚 OS
 
 * Windows Family    (Intermediate)
 
 ---
 
-### Code examples
+### 📃 Code examples
 
 **["One Line Task : Squirrel And Tree"](https://www.codewars.com/kata/59016379ee5456d8cc00000f) KATA from CODEWARS:**
 <br>*Since the weather was good, some students decided to go for a walk in the park after the first lectures of the new academic year. There they saw a squirrel, which climbed a tree in a spiral at a constant angle to the ground. They calculated that in one loop the squirrel climbes h meters (vertical height), the height of the tree is equal to H (v in Ruby), and the length of its circumference equals S. <br>
