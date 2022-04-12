@@ -3,12 +3,12 @@
   <img align="right" src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" alt="Меня легко узнать" width=350px height=350px/>
 
 I am Junior Front End Developer
-Currently learning JS 
+Currently learning _JS_ 
 
 ---
 ### About me
 ---
-I'm 19 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python.
+I'm 19 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python, PHP.
 
 Worked under short deadlines, tutored underachieving mates, and participated in the social life of the university.
 
