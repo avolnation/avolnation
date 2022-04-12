@@ -4,7 +4,7 @@
 
 I am Junior Front End Developer
 <br>
-Currently practicing and improving JS, HTML/CSS
+Currently practicing and improving in JS, HTML/CSS
 
 ### About me
 
