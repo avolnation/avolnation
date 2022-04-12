@@ -1,7 +1,7 @@
 ### Hi everyone, my name is Ihar, aka avolnation 👋
 #
 <div align="center">
-  <img src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" width="600" height="300"/>
+  <img src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" width="300" height="300"/>
 </div>
 
 <!--
