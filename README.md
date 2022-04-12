@@ -1,4 +1,4 @@
-### Hi everyone, my name is Ihar, aka avolnation 👋
+### 👋 Hi everyone, my name is Ihar, aka avolnation 
 
   <img align="right" src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" alt="Меня легко узнать" width=350px height=350px/>
 
