@@ -3,18 +3,20 @@
 <div align="center">
   <img src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" width="300" height="300"/>
 </div>
+#
 ###
 #
 I am Junior Front End Developer
 Currently learning JS 
 #
 ### About me
+#
 I'm 19 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python.
 
 Worked under short deadlines, tutored underachieving mates, and participated in the social life of the university.
 
 Full of drive to learn new things and develop myself as a Front end developer.
-
+#
 
 
 <!--
