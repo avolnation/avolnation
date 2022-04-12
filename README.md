@@ -3,7 +3,8 @@
   <img align="right" src="https://github.com/avolnation/avolnation/blob/main/gianbortion-cat.gif" alt="Меня легко узнать" width=350px height=350px/>
 
 I am Junior Front End Developer
-Currently learning _JS_ 
+<br>
+Currently practicing and improving JS, HTML/CSS
 
 ---
 ### About me
