@@ -8,7 +8,7 @@ Currently practicing and improving in JS, HTML/CSS
 
 ### 📝 About me
 
-I'm 19 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python, PHP.
+I'm 20 years old, a senior student at F.Scorina Gomel State University. Have experience with the HTML/CSS/JS technology stack and a bit with others: SQL, Python, PHP.
 
 Worked under short deadlines, tutored underachieving mates, and participated in the social life of the university.
 
