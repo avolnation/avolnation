@@ -21,7 +21,7 @@ Full of drive to learn new things and develop myself as a Front end developer.
 #### 📚 Programming languages
 
 * JavaScript    (Pre-Intermediate)
-* HTML5 & CSS3  (Pre-Intermediate)
+* HTML5 & CSS3  (Basic)
 * SQL           (Pre-intermediate)
 * Python        (Basic - Pre-Intermediate)
 * PHP           (Basic)
